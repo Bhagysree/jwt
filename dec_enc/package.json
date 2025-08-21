@@ -1,0 +1,16 @@
+{
+  "name": "dec_enc",
+  "version": "1.0.0",
+  "description": "its enc and dec",
+  "main": "jwt.js",
+  "type": "module",
+  "scripts": {
+    "start": "node jwt.js"
+    
+  },
+  "author": "bhagyasree",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
